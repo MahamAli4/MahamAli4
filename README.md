@@ -1,52 +1,77 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30105E,100:8B5CF6&height=180&section=header&text=MAHAM%20NAEEM%20AHMAD&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 💜 Hi, I'm Maham Ali
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+%26+Django+Developer;Turning+Ideas+Into+Digital+Solutions" />
 
-### Full Stack Developer | AI Enthusiast
+### 💜 Full Stack Developer | AI Enthusiast
 
-Building modern web experiences with creativity and code.
-
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahamAli4)
-[![JavaScript](https://img.shields.io/badge/JavaScript-1C1728?style=for-the-badge&logo=javascript&logoColor=D8B4FE)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-1C1728?style=for-the-badge&logo=react&logoColor=A78BFA)](https://react.dev/)
+<a href="https://github.com/MahamAli4"><img src="https://img.shields.io/badge/GitHub-MahamAli4-8B5CF6?style=for-the-badge&logo=github" /></a>
+<a href="mailto:mahamalifa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail" /></a>
 
 </div>
 
 ---
 
-## 🖤 About Me
+## 👩‍💻 About Me
 
-- 💜 Full Stack Developer
-- ⚡ Learning Python and Django
-- 🚀 Building practical web applications
-- 🎨 Interested in premium UI/UX and AI tools
+<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 💻 Tech Stack
+Hi! I'm **Maham Naeem Ahmad** from Karachi, Pakistan 🇵🇰
 
-![HTML5](https://img.shields.io/badge/HTML5-050505?style=flat-square&logo=html5&logoColor=D8B4FE)
-![CSS3](https://img.shields.io/badge/CSS3-050505?style=flat-square&logo=css3&logoColor=D8B4FE)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=flat-square&logo=javascript&logoColor=D8B4FE)
-![React](https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=D8B4FE)
-![Node.js](https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=nodedotjs&logoColor=D8B4FE)
-![MongoDB](https://img.shields.io/badge/MongoDB-050505?style=flat-square&logo=mongodb&logoColor=D8B4FE)
+- 💻 Full Stack & MERN Stack Developer
+- 🐍 Python & Django Developer
+- ⚛️ React.js & Next.js Enthusiast
+- 🗄️ Databases, REST APIs & Git
+- 🎨 UI/UX and Graphic Design
+- 🤝 Teamwork and continuous learning
+
+<br clear="right"/>
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,django,mongodb,mysql,postgres,supabase,git,github,docker,figma,canva&perline=7" />
+
+</div>
+
+## 🚀 Featured Projects
+
+- 🎓 **Student Management System** — Student records and course management.
+- 🛡️ **Visitor Management System** — Visitor tracking and administration.
+- ⚡ **MERN Applications** — React interfaces, APIs and MongoDB.
+- 🐍 **Django Applications** — Backend development and CRUD systems.
+
+<a href="https://github.com/MahamAli4?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-8B5CF6?style=for-the-badge&logo=github" /></a>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamAli4&show_icons=true&theme=radical&hide_border=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MahamAli4&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamAli4&layout=compact&theme=radical&hide_border=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamAli4&layout=compact&theme=midnight-purple&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MahamAli4&theme=radical&hide_border=true)
+<img width="90%" src="https://streak-stats.demolab.com?user=MahamAli4&theme=midnight-purple&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahamAli4&theme=purple&hide_border=true" />
 
 </div>
 
----
+## 🎨 Beyond Coding
+
+🎨 Graphic Design · ✨ UI/UX · 🤖 AI Tools · 📣 Digital Marketing · 📚 Arabic Teaching
+
+## 📬 Connect With Me
 
 <div align="center">
 
+<a href="https://github.com/MahamAli4">GitHub</a> •
+<a href="mailto:mahamalifa@gmail.com">Email Me</a>
+
 ### 💜 Code. Create. Innovate.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:30105E&height=100&section=footer" width="100%" />
 
 </div>
